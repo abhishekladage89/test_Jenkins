@@ -1,0 +1,7 @@
+It may seem that Waterfall, being timeboxed, may take less time, 
+as you make a beeline with clear specifications, whereas with Agile
+ you tend to go in circles because of changes. That’s true to some extent.
+  However, with Agile, your product starts bringing revenue early, while still 
+  in the making, and it has a minimum of functionality. Thus the time-to-market 
+  is considerably reduced. Moreover, the client ultimately gets the best value for 
+  money as the development process goes hand-in-hand with market discovery.
