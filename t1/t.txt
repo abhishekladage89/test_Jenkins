@@ -5,3 +5,8 @@ as you make a beeline with clear specifications, whereas with Agile
   in the making, and it has a minimum of functionality. Thus the time-to-market 
   is considerably reduced. Moreover, the client ultimately gets the best value for 
   money as the development process goes hand-in-hand with market discovery.
+
+Containers
+Algorithms
+Iterators
+Functors
