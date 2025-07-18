@@ -10,3 +10,7 @@ Containers
 Algorithms
 Iterators
 Functors
+  Sequence Containers
+Container Adaptors
+Associative Containers
+Unordered Associated Containers
